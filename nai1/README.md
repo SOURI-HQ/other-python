@@ -2,7 +2,7 @@
 
 This project is a terminal representation of a board game called XOBrainer in which a player is facing an AI-driven opponent utilizing Negamax algorithm from easyAI framework.
 
-Link to XOBrainer's instructions can be found [here](https://opensource.org/licenses/MIT).
+Link to XOBrainer's instructions can be found [here](https://xobrainer.com/images/pdf/XOBrainer_instructions_english_web.pdf).
 
 ## 🛠️ Project setup
 To run this project make sure that you:
